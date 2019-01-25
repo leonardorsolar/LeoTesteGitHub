@@ -85,7 +85,8 @@
                 </div>
 
                 <div class="links">
-					<a href="http://localhost/projetos/teste/public/listarprodutos">Listar Produtos</a>
+                    <a href="http://localhost/projetos/teste/public/listarprodutos">Listar Produtos</a>
+                    <a href="http://localhost/projetos/teste/public/listarprodutos/1">Listar Produtos 1</a>
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
